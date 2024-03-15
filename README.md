@@ -1,16 +1,23 @@
-### Hi there 👋
+Hello There! I am Mustafa.
 
-<!--
-**mustafazfr/mustafazfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a third-year student at Sabahattin Zaim University. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Machine learning with Python
+- 💬 Ask me about Guitar Recommendations
+- 📫 How to reach me: mustafazfrr@gmail.com
+- 😄 Pronouns: He/Him
+
+## Languages and Tools
+
+- Programming Languages : C,C++,Java,Javascript,Python
+- Frameworks : Node.js,React.js,P5.js
+- Databases : MySQL
+
+## Connect with Me
+
+You can reach out to me through the following channels:
+
+- [LinkedIn][https://www.linkedin.com/in/mustafa-zafer-2507a0261]
+- [Instagram][https://www.instagram.com/mustafa.zaferr/]
